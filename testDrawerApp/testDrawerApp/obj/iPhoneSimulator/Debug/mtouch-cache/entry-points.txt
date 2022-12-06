@@ -1,0 +1,992 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_StrErrorR
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_FStat2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ChMod
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LChflags
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LChflagsCanSetHiddenFlag
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_RmDir
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTime
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTimes
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_names
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_locale_country_code
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_CGPoint__VNNormalizedFaceBoundingBoxPointForLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNImagePointForFaceLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_managed_ref
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_set_gchandle_with_flags_safe
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_1
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_5
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_6
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_7
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_8
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_9
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_init_nsthread
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_os_log
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_UIApplicationMain
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_original_working_directory_path
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=xamarin_get_block_descriptor
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_IntPtr_CGSize
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_IntPtr_CGSize
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_IntPtr_CGSize
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_IntPtr_CGSize
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_IntPtr_CGSize
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_IntPtr_CGSize
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_IntPtr_CGSize
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_IntPtr_CGSize
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_IntPtr_CGSize_nfloat_nfloat
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_IntPtr_CGSize_nfloat_nfloat
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_IntPtr_CGSize_nfloat_nfloat
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_IntPtr_CGSize_nfloat_nfloat
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_NVector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_NVector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4_NVector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4_NVector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_NVector3_NVector3_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_NVector3_NVector3_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_exception
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_exception
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UIntPtr_exception
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UIntPtr_exception
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_IntPtr_IntPtr_UIntPtr_exception
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_IntPtr_IntPtr_UIntPtr_exception
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UIntPtr_IntPtr_UIntPtr_exception
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UIntPtr_IntPtr_UIntPtr_exception
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_UIntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_UIntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_stret_UIntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_stret_UIntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3d
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3d
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_float_Vector2i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_float_Vector2i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox_float
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox_float
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKBox
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKBox
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_UIntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_UIntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_UIntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_UIntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_UIntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_UIntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_UIntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_UIntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad_float
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad_float
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2_exception
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2_exception
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKQuad
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKQuad
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2_float_exception
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2_float_exception
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2_Vector2_exception
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2_Vector2_exception
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2_exception
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2_exception
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_ref_MPSImageHistogramInfo
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_ref_MPSImageHistogramInfo
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaterniond_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaterniond_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2d_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2d_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3d_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3d_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4d_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4d_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_MDLAxisAlignedBoundingBox_bool
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_MDLAxisAlignedBoundingBox_bool
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector2i_Vector2i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector2i_Vector2i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector2i_Vector2i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector2i_Vector2i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_IntPtr_UIntPtr_IntPtr_bool
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_IntPtr_UIntPtr_IntPtr_bool
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_IntPtr_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_IntPtr_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_float_IntPtr_Vector2i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_float_IntPtr_Vector2i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_IntPtr_Vector2i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_IntPtr_Vector2i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UIntPtr_Vector2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UIntPtr_Vector2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UIntPtr_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UIntPtr_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UIntPtr_Vector4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UIntPtr_Vector4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UIntPtr_Matrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UIntPtr_Matrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UIntPtr_NMatrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UIntPtr_NMatrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_UInt32_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_UInt32_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_IntPtr_bool_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_IntPtr_bool_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_UIntPtr_UIntPtr_IntPtr_bool_bool_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_UIntPtr_UIntPtr_IntPtr_bool_bool_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_UIntPtr_UIntPtr_IntPtr_bool_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_UIntPtr_UIntPtr_IntPtr_bool_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_UIntPtr_UIntPtr_UIntPtr_IntPtr_bool_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_UIntPtr_UIntPtr_UIntPtr_IntPtr_bool_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_IntPtr_float_IntPtr_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_IntPtr_float_IntPtr_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_IntPtr_bool
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_IntPtr_bool
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i_float_float_float_float
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i_float_float_float_float
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i_float_float_float_float_float
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i_float_float_float_float_float
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i_float
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i_float
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4_bool
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4_bool
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_bool
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_bool
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_IntPtr_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_IntPtr_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_IntPtr_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_IntPtr_Double
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector4i_bool_bool_bool_bool
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector4i_bool_bool_bool_bool
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_MDLVoxelIndexExtent2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_MDLVoxelIndexExtent2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_stret_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_stret_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector4i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector4i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector4i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector4i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Vector4i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Vector4i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Vector4i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Vector4i
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Quaternion_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Quaternion_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Quaternion
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Quaternion
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2d_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2d_IntPtr
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2d
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2d
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSend_Vector4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSendSuper_Vector4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper_stret
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix2
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix3
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix4
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContextEx
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_AcceptSecContext
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_GetUser
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Wrap
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Unwrap
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetDomainSocketSizes
+	/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Core.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

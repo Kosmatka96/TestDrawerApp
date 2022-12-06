@@ -1,0 +1,11 @@
+RemoveDynamicRegistrar:false
+/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/bin/iPhoneSimulator/Debug/testDrawerApp.app:/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/testDrawerApp.exe
+/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/bin/iPhoneSimulator/Debug/testDrawerApp.app:/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/bin/iPhoneSimulator/Debug/testDrawerApp.app:/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/bin/iPhoneSimulator/Debug/testDrawerApp.app:/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/bin/iPhoneSimulator/Debug/testDrawerApp.app:/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Mono.Security.dll
+/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/bin/iPhoneSimulator/Debug/testDrawerApp.app:/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Xml.dll
+/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/bin/iPhoneSimulator/Debug/testDrawerApp.app:/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Numerics.dll
+/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/bin/iPhoneSimulator/Debug/testDrawerApp.app:/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Core.dll
+/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/bin/iPhoneSimulator/Debug/testDrawerApp.app:/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Net.Http.dll
+/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/bin/iPhoneSimulator/Debug/testDrawerApp.app:/Volumes/Workspace/TestDrawerApp/testDrawerApp/testDrawerApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Drawing.Common.dll

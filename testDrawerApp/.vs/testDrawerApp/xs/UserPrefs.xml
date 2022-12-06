@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{ACDFFA5A-E94C-4EDC-BAE4-31E83311D5C2}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testDrawerApp/AppDelegate.cs">
+    <Files>
+      <File FileName="testDrawerApp/Entitlements.plist" />
+      <File FileName="testDrawerApp/DetailViewController.cs" />
+      <File FileName="testDrawerApp/Info.plist" />
+      <File FileName="testDrawerApp/DetailViewController.designer.cs" />
+      <File FileName="testDrawerApp/AppDelegate.cs" Line="10" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testDrawerApp" expanded="True">
+            <Node name="testDrawerApp" expanded="True">
+              <Node name="DetailViewController.cs" expanded="True" />
+              <Node name="MasterViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.testDrawerApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B159D54E-5B03-4AAB-AB0E-87C6DE2A62E1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
